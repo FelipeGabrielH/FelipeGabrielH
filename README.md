@@ -3,7 +3,7 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -20,13 +20,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "haerthelfelipegabriel@gmail.com">
-      <img width="30" src="[gmail.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
+      <img width="30" src=>
     </a>
     <a href = "https://www.linkedin.com/in/felipe-gabriel-haerthel-b47b3a27a/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/felipegabrielhaerthel">
-      <img width="25" src="instagram.png">
+      <img width="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
   
