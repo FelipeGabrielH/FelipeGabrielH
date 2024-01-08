@@ -20,7 +20,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "haerthelfelipegabriel@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="[gmail.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
     </a>
     <a href = "https://www.linkedin.com/in/felipe-gabriel-haerthel-b47b3a27a/">
       <img width="25" src="linkedin.svg">
