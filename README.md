@@ -20,13 +20,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "haerthelfelipegabriel@gmail.com">
-      <img width="30" src=>
+      <img width="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href = "https://www.linkedin.com/in/felipe-gabriel-haerthel-b47b3a27a/">
-      <img width="25" src="linkedin.svg">
+      <img width="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href = "https://www.instagram.com/felipegabrielhaerthel">
-      <img width="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img width="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
   
