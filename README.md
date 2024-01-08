@@ -1,6 +1,6 @@
 ## Felipe Gabriel Haerthel
 
-<div>
+<div align="center">
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
