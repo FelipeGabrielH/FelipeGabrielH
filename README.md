@@ -1,8 +1,8 @@
 ## Felipe Gabriel Haerthel
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeGabrielH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img width="35%" height="30%" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&count_private=true&hide_border=false&title_color=90100f&icon_color=90100f&text_color=008000&bg_color=black" alt="Felipe Gabriel github stats" /> 
+  <img width="31.5%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&hide_border=false&title_color=90100f&text_color=008000&bg_color=black" />
 </div>
 
 <br>
