@@ -1,10 +1,5 @@
 ## Felipe Gabriel Haerthel
 
-<div align="center">
-<img width="40%" height="30%" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&count_private=true&hide_border=false&title_color=90100f&icon_color=90100f&text_color=008000&bg_color=black" alt="Felipe Gabriel github stats" /> 
-  <img width="36%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&hide_border=false&title_color=90100f&text_color=008000&bg_color=black" />
-</div>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
