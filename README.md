@@ -1,8 +1,8 @@
 ## Felipe Gabriel Haerthel
  <a href="https://github.com/kaiquiBenevenutti">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&theme=dark&"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeGabrielH&show_icons=true&theme=dark&"/>
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&langs_count=11&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGabrielH&layout=compact&langs_count=11&theme=dark"/>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
