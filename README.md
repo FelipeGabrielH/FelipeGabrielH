@@ -19,6 +19,6 @@
   <h1 align="center">Redes Sociais</h1>
     </a>
     <a href = "https://www.linkedin.com/in/felipe-gabriel-haerthel-b47b3a27a/">
-      <img width="112" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="113" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>    
 </div>
