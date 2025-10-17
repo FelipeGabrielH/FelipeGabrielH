@@ -9,8 +9,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Conhecimentos</h1>
     <img align="center" height="45" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="45" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="45" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+    <img align="center" height="45" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
     <img align="center" height="45" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="45" width="50" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    </div>
